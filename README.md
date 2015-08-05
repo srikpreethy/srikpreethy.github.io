@@ -1,4 +1,4 @@
-puhazh.github.io
+srikpreethy.github.io
 ================
 
 Github Pages
